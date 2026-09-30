@@ -1,0 +1,7 @@
+gender,category,COUNT(transactions_id)
+Female,Beauty,330
+Female,Clothing,347
+Female,Electronics,340
+Male,Beauty,282
+Male,Clothing,354
+Male,Electronics,344
